@@ -1,0 +1,94 @@
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\bin\Debug\AracKiralamaOtomasyonu1.exe.config
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\bin\Debug\AracKiralamaOtomasyonu1.exe
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\bin\Debug\AracKiralamaOtomasyonu1.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.csproj.AssemblyReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.Properties.Resources.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.csproj.GenerateResource.cache
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.csproj.CoreCompileInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.exe
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\YurtOtomasyonu.MainForm.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmKullaniciHesapalari.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmLogin.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracDurumRapor.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmKasaGider.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmKasaGiderRapor.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmMusteriKayit_Listele.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmOdemeGenelToplamlar.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmOdemeRapor.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmPersonelHesap.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmSifreDegistirme.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmKiralama.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracKayit.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracListele_Kayit.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmMüsterToplamÖdemeler.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracOzellikTanimlama.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\bin\Debug\AracKiralamaOtomasyonu1.exe.config
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\bin\Debug\AracKiralamaOtomasyonu1.exe
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\bin\Debug\AracKiralamaOtomasyonu1.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.csproj.AssemblyReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracDurumRapor.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracKayit.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracListele_Kayit.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracOzellikTanimlama.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmKullaniciHesapalari.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmLogin.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmPersonelHesap.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.Properties.Resources.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmKiralama.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.csproj.GenerateResource.cache
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.csproj.CoreCompileInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.exe
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracTeslim.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmMain.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmMusteriEkle.resources
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.csproj.ResolveComReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmKiraRapor.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\bin\Debug\AracKiralamaOtomasyonu1.exe.config
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\bin\Debug\AracKiralamaOtomasyonu1.exe
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\bin\Debug\AracKiralamaOtomasyonu1.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.csproj.AssemblyReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.csproj.ResolveComReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracDurumRapor.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracKayit.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracListele_Kayit.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracOzellikTanimlama.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracTeslim.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmKiraRapor.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmKullaniciHesapalari.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmLogin.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmMain.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmMusteriEkle.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmPersonelHesap.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmSifreDegistirme.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.Properties.Resources.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmKiralama.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.csproj.GenerateResource.cache
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.csproj.CoreCompileInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.exe
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (3)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmMusteriSec.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\bin\Debug\AracKiralamaOtomasyonu1.exe.config
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\bin\Debug\AracKiralamaOtomasyonu1.exe
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\bin\Debug\AracKiralamaOtomasyonu1.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.csproj.AssemblyReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.csproj.ResolveComReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracDurumRapor.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracKayit.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracListele_Kayit.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracOzellikTanimlama.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmAracTeslim.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmKiraRapor.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmKullaniciHesapalari.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmLogin.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmMain.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmMusteriEkle.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmMusteriSec.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmPersonelHesap.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.Properties.Resources.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.frmKiralama.resources
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.csproj.GenerateResource.cache
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.csproj.CoreCompileInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.exe
+C:\Users\yakup\OneDrive\Masaüstü\Yeni klasör (2)\Araç Kiralama\AracKiralamaOtomasyonu1\obj\Debug\AracKiralamaOtomasyonu1.pdb
